@@ -1,3 +1,3 @@
 ### Esercitazione
 
-Questa è una semplice realizzazione realizzata con HTML, CSS e Bootstrap. <br>
+Questa è una semplice esercitazione personale realizzata con HTML, CSS e Bootstrap. <br>
